@@ -1,0 +1,5 @@
+numeroFactura	fechaEmision	clienteDenominacion	condicionIva	puntoVentaDescripcion	importeTotal	cantidadItems
+1001	2026-03-15	Ana Lopez	IVA Responsable Inscripto	Sucursal Central	1500,00	2
+1002	2026-03-20	Empresa Tech S.A.	IVA Responsable Inscripto	Sucursal Norte	85000,50	5
+1003	2026-03-22	Carla Gomez	IVA Responsable Inscripto	Sucursal Sur	4250,00	1
+1004	2026-03-25	Diego Sistemas S.R.L.	IVA Responsable Inscripto	Sucursal Oeste	12000,00	3
